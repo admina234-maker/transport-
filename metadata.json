@@ -1,0 +1,8 @@
+{
+  "name": "Wisdom Nursery & Primary School Transport System",
+  "description": "Real-time van transport management, fleet tracking, parent mobile dashboard, automated distance-based fee calculation, student attendance reporting, and secure online UPI payments for Wisdom Nursery and Primary School, Essur.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
